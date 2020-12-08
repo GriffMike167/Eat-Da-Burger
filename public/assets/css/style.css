@@ -1,4 +1,4 @@
-/* li {
+li {
   padding: 5px;
   margin: 5px;
   background: #faebd7;
@@ -42,8 +42,8 @@ img {
   margin: 0 auto;
   padding: 25px;
   height: 300px;
-} */
-.jumbotron {
+}
+/* .jumbotron {
   background-image: url("/assets/img/background.jpg");
   background-repeat: no-repeat;
   background-position: center;
@@ -79,4 +79,4 @@ img {
   color: white;
   text-align: center;
   font-size: 1.2em;
-}
+} */
