@@ -1,7 +1,7 @@
 html {
   background: url(./eatdaburger.png.jpg);
-  background-size: cover;
-  color: black;
+  background-size: auto;
+  color: white;
 }
 li {
   padding: 5px;
