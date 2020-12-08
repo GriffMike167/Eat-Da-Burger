@@ -12,7 +12,7 @@ router.get("/", function(req, res) {
       burgers: data
     };
     // console.log(hbsObject);
-    res.render("../views/index.html", hbsObject);
+    res.render("index", hbsObject);
   });
 });
 
